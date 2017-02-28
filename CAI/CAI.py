@@ -1,10 +1,10 @@
-#Project: CIS 177 WEEK 5 PROJECT
+#Project: CIS 177 WEEK 6 PROJECT
 #Project Location: projects\cis177\CAI
 #File: CAI.py
 #Uses: funcs.py (Library containing the math functions for choosing problems)
 #Purpose: Asks the user ten math questions one at a time,
 #         gives the user feedback and keeps track of the score
-#Revision: 1.0 / 2 FEB 2017
+#Revision: 1.0 / 27 FEB 2017
 #Created: 27 FEB 2017
 #Author: Rick Miller <rick@rickthegeek.com>
 
